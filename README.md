@@ -25,7 +25,7 @@ I'm **Aswin Lakshmanan Sriram**, and I'm a graduate student studying Information
 
 ### ⚡ Statistics
 <!-- ![aswinlakshmanan-s github stats](https://github-readme-stats.vercel.app/api?username=aswinlakshmanan-s&count_private=true&theme=tokyonight&hide=contribs,prs) -->
-![aswinlakshmanan-s GitHub rating](https://github-readme-stats.vercel.app/api?username=aswinlakshmanan-s&show_icons=true&count_private=true&hide=stars)
+![aswinlakshmanan-s GitHub rating](https://github-readme-stats.vercel.app/api?username=aswinlakshmanan-s&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
 <!--
