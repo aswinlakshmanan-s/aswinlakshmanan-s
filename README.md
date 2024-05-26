@@ -27,6 +27,29 @@ I'm **Aswin Lakshmanan Sriram**, and I'm a graduate student studying Information
 <!-- ![aswinlakshmanan-s github stats](https://github-readme-stats.vercel.app/api?username=aswinlakshmanan-s&count_private=true&theme=tokyonight&hide=contribs,prs) -->
 ![aswinlakshmanan-s GitHub rating](https://github-readme-stats.vercel.app/api?username=aswinlakshmanan-s&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me  🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/aswinlakshmanan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/aswinlakshmanan_s/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+</p>
+
+
+
+
+<!--profile visit count-->
+<div align="center"> <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aswinlakshmanan-s&label=Profile%20views&color=0e75b6&style=flat" alt="aswinlakshmanan-s" /> </p>
+</div>
+
+
 
 <!--
 **aswinlakshmanan-s/aswinlakshmanan-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
