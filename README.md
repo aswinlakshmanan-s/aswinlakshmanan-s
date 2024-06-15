@@ -1,6 +1,6 @@
 ### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28" alt="hi">
 
-I'm **Aswin Lakshmanan Sriram**, and I'm a graduate student studying Information Systems at the **College of Engineering, Northeastern University**. 
+I'm **Aswin Lakshmanan Sriram**, and I'm a graduate student studying Computer Information Systems at the **College of Engineering, Northeastern University**. 
 
 
 ### 💬 Languages
