@@ -1,6 +1,13 @@
 ### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28" alt="hi">
 
 I'm **Aswin Lakshmanan Sriram**, and I'm a graduate student studying Computer Information Systems at the **College of Engineering, Northeastern University**.
+I’m passionate about how technology can reshape systems and solve real-world problems. My focus is on blending machine learning, cybersecurity, and data science to create innovative solutions.
+
+I thrive on tackling challenges at the intersection of diverse fields, whether it's detecting ransomware or analyzing video ads with AI. I’m always looking for ways to make technology more intuitive and impactful for users.
+
+I’m excited by research-driven work and the potential of tech to drive change in industries like healthcare, sustainability, and beyond. If you’re working on something innovative or share similar interests, let’s connect!
+
+
 
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
