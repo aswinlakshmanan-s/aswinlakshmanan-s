@@ -37,7 +37,7 @@ I’m excited by research-driven work and the potential of tech to drive change 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinlakshmanan)
 
 ### ⚡ Statistics
-![aswinlakshmanan-s GitHub rating](https://github-readme-stats.vercel.app/api?username=aswinlakshmanan-s&count_private=true&theme=tokyonight&hide=contribs,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswinlakshmanan-s&count_private=true&theme=tokyonight&hide=contribs,prs&cache_seconds=1800)
 
 <!-- Connect with me -->
 <div id="user-content-toc">
